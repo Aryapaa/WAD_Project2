@@ -8,8 +8,8 @@
 </head>
 <body>
     <div class="container">
-        <div class="input-group mb-5">
-            <input type="number" class="form-control" >
+        <div class="input-group mb-5 mt-5">
+            <input type="number" class="form-control" placeholder="Masukkan Angka">
         </div>
         <div class="input-group mb-5">
             <select class="form-select" id="inputGroupSelect01">
